@@ -1,0 +1,6 @@
+# Build / editor artifacts — never publish
+.cache/
+compile_commands.json
+*.idx
+*.o
+a.out
