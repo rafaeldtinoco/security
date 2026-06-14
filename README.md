@@ -1,4 +1,7 @@
-# Research - Rafael David Tinoco (Miggo Security)
+# Rafael David Tinoco
+
+> Rafael works with eBPF, Tracing, Security & OS Internals at **[Miggo Security R&D](https://medium.com/@miggo-engineering/detecting-copyfail-dirtyfrag-by-thinking-outside-the-box-3cae021ca94c)** | Former [Tracee Runtime Security Maintainer](https://github.com/aquasecurity/tracee), [BTFHub Creator](https://github.com/aquasecurity/btfhub/blob/main/docs/btfgen-internals.md), [Jibril Runtime Creator](https://jibril.garnet.ai), Ubuntu Core Dev and Mainframer | Past: Aqua Security, Canonical, IBM Mainframe, IBM Cloud, Linaro, RedHat and Sun.
+
 
 ```text
 ███████╗███████╗ ██████╗██╗   ██╗██████╗ ██╗████████╗██╗   ██╗
